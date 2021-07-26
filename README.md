@@ -7,5 +7,6 @@
        layout="vertical">
        
 Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tree or elephant-ear tree, is a species of flowering tree in the pea family, Fabaceae, that is native to tropical regions of the Americas, from central Mexico south to northern Brazil (Roraima) and Venezuela.It is known for its large proportions, its expansive, often spherical crown, and its curiously shaped seedpods. The abundance of this tree, especially in Guanacaste Province, Costa Rica, where it is prized for the shady relief it provides from the intense sun, coupled with its immensity, have made it a widely recognized species. It is the national tree of Costa Rica.
+<param ve-map center="Q6462107" zoom="8" prefer-geojson> 
 
 In North America it is often called elephant-ear tree, due to the shape of the seedpods. Other common names include Devil's ear and earpod tree, parota and orejón (Spanish) or huanacaxtle (Nahuatl). In El Salvador, it is known as conacaste. In the Yucatan peninsula, it is known by the Mayan name, pich. In Panama it is known as a corotú. 
