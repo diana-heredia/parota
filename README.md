@@ -11,3 +11,5 @@ Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tr
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Cruz_de_Huanacaxtle.jpg">
 
 In North America it is often called elephant-ear tree, due to the shape of the seedpods. Other common names include Devil's ear and earpod tree, parota and orejón (Spanish) or huanacaxtle (Nahuatl). In El Salvador, it is known as conacaste. In the Yucatan peninsula, it is known by the Mayan name, pich. In Panama it is known as a corotú. 
+<param ve-image url="https://www.metmuseum.org/art/collection/search/467642"
+       fit="contain">
