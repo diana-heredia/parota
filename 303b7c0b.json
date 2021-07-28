@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "would be nice to have a parota tree for better shade",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/3dd42e2c83fc7a100a486a2a2df7a5cae0a24b7b3ddf86fe52ecf14365a8829",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:604.24072265625,1344.255615234375,338.86468505859375,236.7969970703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#192c3e02-3615-41a5-830a-0208a2812951"
+  }
+]
