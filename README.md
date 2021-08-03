@@ -15,7 +15,7 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
 
 
 
-Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-mouseover-image-zoomto="2|18,726,1064,855">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. In contrast, 
+Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-mouseover-image-zoomto="2|18,726,1064,855">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
 
 <param ve-image 
        manifest="https://www.wdl.org/en/item/1137/manifest"
@@ -26,8 +26,8 @@ Jesuits overseeing missions in the Amazon in the eighteenth century were among t
        ref="1">
        
 <param ve-image
+       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg"
        title="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
-       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg "
        description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
