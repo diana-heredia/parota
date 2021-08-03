@@ -50,16 +50,16 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles."
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
        license="Public Domain"
-       region"1295,1326,1904,1529"
+       region="1295,1326,1904,1529"
        ref="2">
        
 Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the Ticuna in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region. Pinto Rubens’ work stands out from previous missionary accounts because it has great ethnographic detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a pagé who apparently is using ayahuasca to understand their patient’s ailment and find a cure. 
 
 <param ve-image
        manifest="https://iiif.lib.harvard.edu/manifests/view/drs:485686543$29i"
-       rotate="90"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé, 1873"
-       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres">
+       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
+       rotate="90">
       
 
 ### References
