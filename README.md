@@ -33,7 +33,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2">
        
-In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that included parts of the Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1295,1326,1904,1529">described</span> was _Psychotria viridis_.[ref] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
+In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_.[ref] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
 
 <param ve-image
        label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (top) and Psychotria viridis (bottom) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
@@ -47,11 +47,20 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
        label="Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802"
-       description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles"
+       description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles."
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
        license="Public Domain"
        region"1295,1326,1904,1529"
        ref="2">
+       
+Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the Ticuna in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region. Pinto Rubens’ work stands out from previous missionary accounts because it has great ethnographic detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a pagé who apparently is using ayahuasca to understand their patient’s ailment and find a cure. 
+
+<param ve-image
+       rotate="90"
+       manifest="https://iiif.lib.harvard.edu/manifests/view/drs:485686543$29i"
+       label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé, 1873"
+       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres">
+      
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
