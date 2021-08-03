@@ -36,7 +36,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_.[^ref1] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
 
 <param ve-image
-       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (top) and Psychotria viridis (bottom) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
+       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
        description="Colored engravings of two Psychotria species collected in the Peruvian Andes, including the DMT-bearing species P. viridis"
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
@@ -56,12 +56,12 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
 Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the Jesuit views  on ayahuasca when he wrote about the Ticuna in the Northern Amazon. He recognized the medical specialists of this community (called _pagés_)  but also called them “impostors” who frightened the overly “superstitious indians”  of the region. Pinto Rubens’ work stands out from previous missionary accounts because it has great ethnographic detail about indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a pagé who apparently is using ayahuasca to understand their patient’s ailment and find a cure. 
 
 <param ve-image
-       manifest="https://iiif.lib.harvard.edu/manifests/view/drs:485686543$29i"
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:485686543$29i"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
        description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875
-       license="Public Domain">
-      
-
+       license= "Public Domain"
+       rotate= "90">                       
+                    
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
