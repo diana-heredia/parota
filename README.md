@@ -23,5 +23,17 @@ Guanacaste flowers are heavily visited by bees—insects that probably are respo
 
 As discussed above, the tough-coated guanacaste seeds do not begin to grow unless their protective covers are punctured in some way. This may be an adaptation designed to keep the seeds from germinating while still in the pods at the start of the rainy season—and very likely still underneath the parent tree after having fallen from its crown. With more time to find them, foraging ground sloths (and other extinct mammals) could eat the pods and transport the seeds to a new site. The resulting mastication and digestion of the fruits would induce seed coat abrasion, which would help seed germination. Nowadays this role of mastication and dispersal has been taken up primarily by horses and cattle
 
+### Ethnobotanical Encounters
+The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
+
+Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of ayahuasca. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
+
+param ve-image 
+       title="Samuel Fritz,_El Gran Río Marañón o Amazonas_, 1707" 
+       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12002018&formato=jpg"
+       description="An eighteenth-century map of the Amazon river and one of its main tributaries the Marañón. Fritz was also a Jesuit and Maroni included his diary and map on his 1737 book _Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito_" 
+       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315
+       license="Creative Commons - Attribution, Non-Commercial, ShareAlike">
+
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
