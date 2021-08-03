@@ -19,19 +19,17 @@ Jesuits overseeing missions in the Amazon in the eighteenth century were among t
 
 <param ve-image 
        manifest="https://www.wdl.org/en/item/1137/manifest"
-       title="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707 " 
+       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707" 
        description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
-       attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01 "
-       license="Public Domain"
-     >
+       attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01"
+       license="Public Domain">
        
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
        label="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
        description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
-       license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
-       >
+       license="Creative Commons - Attribution, Non-Commercial, ShareAlike">
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
