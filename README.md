@@ -33,7 +33,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2">
        
-In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that included parts of the Amazon. Among the new plant species and genera they described was _Psychotria viridis_.[ref] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
+In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that included parts of the Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1295,1326,1904,1529">described</span> was _Psychotria viridis_.[ref] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
 
 <param ve-image
        label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (top) and Psychotria viridis (bottom) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
@@ -41,14 +41,17 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        description="Colored engravings of two Psychotria species collected in the Peruvian Andes, including the DMT-bearing species P. viridis"
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
        license="Public Domain"
-       fit="contain">
+       fit="contain"
+       ref="1">
        
 <param ve-image
        label="Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802"
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939240/5315939240_0155.jpg"
        description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles"
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
-       license="Public Domain">
+       license="Public Domain"
+       region"1295,1326,1904,1529"
+       ref="2">
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
