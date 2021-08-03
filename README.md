@@ -29,10 +29,10 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
 Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of ayahuasca. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
 
 <param ve-image 
-       title="Samuel Fritz,_El Gran Río Marañón o Amazonas_, 1707" 
+       title="Samuel Fritz,El Gran Río Marañón o Amazonas, 1707" 
        url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12002018&formato=jpg"
        description="An eighteenth-century map of the Amazon river and one of its main tributaries the Marañón. Fritz was also a Jesuit and Maroni included his diary and map on his 1737 book _Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito_" 
-       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315
+       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike">
 
 ### References
