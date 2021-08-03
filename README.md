@@ -13,22 +13,25 @@ Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tr
 ### Ethnobotanical Encounters
 The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
 
+
+
+Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-mouseover-image-zoomto="2|18,726,1064,855">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. In contrast, 
+
+<param ve-image 
+       manifest="https://www.wdl.org/en/item/1137/manifest"
+       title="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707 " 
+       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
+       attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01 "
+       license="Public Domain"
+       ref="1">
+       
 <param ve-image
        title="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
        url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg "
        description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
-       region="18,726,1064,855">
-
-Jesuits overseeing missions in the Amazon in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of ayahuasca. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. In contrast, 
-
-<param ve-image 
-       title="Samuel Fritz, El Gran Río Marañón o Amazonas, 1707 in Pablo Maroni's Noticias Auténticas del famoso río Marañón, 1738[1889]" 
-       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12002018&formato=jpg"
-       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map on his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito" 
-       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315, page 670"
-       license="Creative Commons - Attribution, Non-Commercial, ShareAlike">
+       ref="2">
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
