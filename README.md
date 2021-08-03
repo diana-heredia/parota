@@ -13,6 +13,8 @@ Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tr
 ### Ethnobotanical Encounters
 The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
 
+<!--timeline coming soon--> 
+
 Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|178,956,586,471">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
 
 <param ve-image 
@@ -30,6 +32,15 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2">
+       
+In contrast, descriptions of individual plant species were devoid of demonic associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile. Among the new plant species and genera they described was _Psychotria viridis_.[ref] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine and chacruna remained (purposefully) unknown. 
+
+<param ve-image
+       label="Isidro Gálvez/José Brunete, Illustrations of Pyschotria subtomentosa (top) and Psychotria viridis (bottom) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
+       url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
+       description="Colored engravings of two Psychotria species collected in the Peruvian Andes, including the DMT-bearing species P. viridis"
+       attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
+       license="Public Domain">
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
