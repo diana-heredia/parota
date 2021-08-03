@@ -45,8 +45,8 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        ref="1">
        
 <param ve-image
+       manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
        label="Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802"
-       url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939240/5315939240_0155.jpg"
        description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles"
        attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
        license="Public Domain"
