@@ -57,9 +57,9 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
 
 <param ve-image
        manifest="https://iiif.lib.harvard.edu/manifests/view/drs:485686543$29i"
+       rotate="90"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé, 1873"
-       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
-        rotate="90">
+       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres">
       
 
 ### References
