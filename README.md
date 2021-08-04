@@ -13,7 +13,7 @@ Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tr
 ### Ethnobotanical Encounters
 The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
 
-<param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw&font=Lustria-Lato&lang=en" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
+<param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" font="Lustria-Lato" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="650">
 
 Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a substance for ritual and medicinal purposes. While their main goal was to Christianize peripheral regions, most Jesuits had secular concerns about the use of <span data-click-image-zoomto="2|178,956,586,471">ayahuasca</span>. Missionaries like Pablo Maroni found it difficult to prove whether spiritual leaders had a pact with the devil but were concerned about the divinatory purposes of ayahuasca. In their view, spiritual leaders (usually referred to as sorcerers) were only tricking and deceiving people in their community. 
 
