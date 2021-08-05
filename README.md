@@ -62,7 +62,9 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"
        rotate= "90">    
+       
 While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine  (Banisteria caapi) and included a whole section on it in his posthumous book, Notes of a Botanist in the Andes and the Amazon (1908). Because of this, Spruce is considered to be the pioneer of ayahuasca studies in the modern scientific world. 
+
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
        label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of _caapi_"
