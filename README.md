@@ -75,20 +75,24 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
        description="tba"
        attribution="Biodiversity Heritage Library"
-       license="Public Domain">
+       license="Public Domain"
+       fit="contain">
        
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
        label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of (_caapi_)"
        description="Spruce first mentioned the use of caapi during his travels across the Vaupés River"
        attribution="Biodiversity Heritage Library"
-       license="Public Domain">
+       license="Public Domain"
+       fit="contain">
+       
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391360"
        label="Botanical description and scientific name of the ayahuasca vine"
        description="tba"
        attribution="Biodiversity Heritage Library"
-       license="Public Domain">
+       license="Public Domain"
+       region="0,811,2488,2058">
                     
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
