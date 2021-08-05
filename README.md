@@ -69,13 +69,25 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
        license= "Public Domain"
        rotate= "90">    
        
-While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine  (Banisteria caapi) and included a whole section on it in his posthumous book, Notes of a Botanist in the Andes and the Amazon (1908). Because of this, Spruce is considered to be the pioneer of ayahuasca studies in the modern scientific world. 
-
+While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine (_Banisteria caapi_) and included a whole section of notes in his posthumous book, _Notes of a Botanist in the Andes and the Amazon_ (1908). Because of this, Spruce is considered to be the pioneer of ayahuasca studies in the modern scientific world. 
+<param ve-image
+       url="https://www.biodiversitylibrary.org/pageimage/47391507"
+       label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
+       description="tba"
+       attribution="Biodiversity Heritage Library"
+       license="Public Domain">
+       
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
-       label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of _caapi_"
+       label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of (_caapi_)"
+       description="Spruce first mentioned the use of caapi during his travels across the Vaupés River"
+       attribution="Biodiversity Heritage Library"
+       license="Public Domain">
+<param ve-image
+       url="https://www.biodiversitylibrary.org/pageimage/47391360"
+       label="Botanical description and scientific name of the ayahuasca vine"
        description="tba"
-       attribution="University of Toronto- Robarts Library in partnership with BHL"
+       attribution="Biodiversity Heritage Library"
        license="Public Domain">
                     
 ### References
