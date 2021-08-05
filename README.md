@@ -33,7 +33,7 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
        license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
        ref="2">
        
-In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_.[^ref1] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
+In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the Spanish explorers and botanists Hipólito Ruíz and José Pavón led an expedition across present-day Perú, Ecuador, and Chile that covered parts of the Western Amazon. Among the new plant species and genera they <span data-click-image-zoomto="2|1313,1312,1905,1529">described</span> was _Psychotria viridis_. Even though these botanists sought to obtain knowledge from local herbalists and sorcerers [ref], the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported. For centuries the synergy between the ayahuasca vine (_B. caapi_) and chacruna (_P. viridis_) remained (purposefully) unknown. 
 
 <param ve-image
        label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
@@ -61,7 +61,14 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
        description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"
-       rotate= "90">                       
+       rotate= "90">    
+While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce gave a binomial name to the most known ayahuasca vine  (Banisteria caapi) and included a whole section on it in his posthumous book, Notes of a Botanist in the Andes and the Amazon (1908). Because of this, Spruce is considered to be the pioneer of ayahuasca studies in the modern scientific world. 
+<param ve-image
+       url="https://www.biodiversitylibrary.org/pageimage/47391881"
+       label="Richard Spruce's drawings of the Tariana in the Uapés River where he documented the use of _caapi_"
+       description="tba"
+       attribution="University of Toronto- Robarts Library in partnership with BHL"
+       license="Public Domain">
                     
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
