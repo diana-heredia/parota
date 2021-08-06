@@ -95,7 +95,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        region="0,811,2488,2058">
        
 However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño creole scientist who was governor of the Oriental Provinces in Ecuador. Villavicencio’s scientific project consisted in making extensive geographical studies that would allow him to build a nation free of colonial legacies. To do so he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless. Villavicencio did include other important ethnobotanical details such as the use of a “guayusa” brew (_Illex guayusa_) to purge the ayahuasca drinker before the ceremony.  Interestingly, he also described the diplomatic and warfare uses of the brew in the Zaparo and Jívaro communities. These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
-<param ve image
+<param ve-image
        curtain="true"
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/0,0,3819,4096/955,/0/default.jpg"
        label="Villavicencio's personal account of ayahuasca consumption published in 1858"
@@ -103,21 +103,21 @@ However, Spruce did not obtain all of the information through first hand intervi
        attribution="Courtesy of Dumbarton Oaks Research Library, call number:"
        license="Public Domain">
        
- <param ve image
+ <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
         label="Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
         description="tba"
         attribution="Courtesy of Biodiversity Heritage Library"
         license="Public Domain">   
-
-Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s. Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own. It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.
-
-<param ve image
+        
+<param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/475,/0/default.jpg"
        label="En route to the deep Amazon via the Napo River"
        description="tba"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number:"
        license="Public Domain">
+
+Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s. Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own. It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.
                     
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
