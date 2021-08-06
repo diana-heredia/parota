@@ -95,15 +95,14 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        region="0,811,2488,2058">
        
 However, Spruce did not obtain all of the information through first hand interviews and observations. He also relied on scientific networks in the nascent Spanish American republics. Spruce cited and translated the work of Manuel Villavicencio, a Quiteño creole scientist who was governor of the Oriental Provinces in Ecuador. Villavicencio’s scientific project consisted in making extensive geographical studies that would allow him to build a nation free of colonial legacies. To do so he sought to tap into British imperial botanical networks and thus saw fit to share his work with Spruce. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical description useless. Villavicencio did include other important ethnobotanical details such as the use of a “guayusa” brew (_Illex guayusa_) to purge the ayahuasca drinker before the ceremony.  Interestingly, he also described the diplomatic and warfare uses of the brew in the Zaparo and Jívaro communities. These political uses are now rarely mentioned in ayahuasca literature thus leaving the magical and spiritual connotations of the brew as the most relevant ones. 
-<param ve-image
-       curtain="true"
+<param ve-compare curtain
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/0,0,3819,4096/955,/0/default.jpg"
        label="Villavicencio's personal account of ayahuasca consumption published in 1858"
        description="tba"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number:RARE F3714 .V54 1858"
        license="Public Domain">
        
- <param ve-image
+ <param ve-compare
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
         label="Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
         description="tba"
