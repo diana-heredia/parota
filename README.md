@@ -11,7 +11,7 @@ Enterolobium cyclocarpum, commonly known as guanacaste, caro caro, monkey-ear tr
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Cruz_de_Huanacaxtle.jpg">
 
 ### Ethnobotanical Encounters
-The rich descriptions of ayahuasca ceremonies we know today have been written in the last four decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
+The rich descriptions of ayahuasca ceremonies we know today have been written in the last five decades or so. Yet the few materials that document early encounters with the brew reveal the longstanding religious and intellectual barriers that prevented outsiders from understanding Indigenous knowledge and their worldview.
 
 <param ve-knightlab-timeline 
        source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" 
@@ -139,7 +139,8 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
        label="Villavicencio's personal account of ayahuasca consumption published in 1858, continued"
        description="tba"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number:RARE F3714 .V54 1858"
-       license="Public Domain"> <!--Because I couldn't obtain a higher res image of this page, I had to include this image where the author talks about a purgative plant but I think it might be too much--> 
+       license="Public Domain"
+       fit="contain"> <!--Because I couldn't obtain a higher res image of this page, I had to include this image where the author talks about a purgative plant but I think it might be too much--> 
 
 
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The famous ethnobotanist Richard Evans Schultes was inspired by _Notes of a Botanist..._ and decidedly followed Spruce’s steps into the Amazon during the 1940s. Schultes lauded the naming of the ayahuasca vine as Spruce’s greatest “discovery” but regretted that the Victorian botanist wasn’t able to experience ayahuasca on his own. It was years after Schultes returned to Harvard and mentioned ayahuasca to a fellow undergraduate, famed novelist William Burroughs, that personal accounts and autoethnographies under the influence of ayahuasca would become popular beginning with Burroughs’ epistolary Colombian odyssey to experience the brew, _The Yage Letters_.
@@ -157,6 +158,24 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
        description="tba"
        attribution="via Cabinet Magazine"
        license="???tbd"> <!--I might not get permission to use these two images but I wanted to see how they looked :')-->
+       
+The question then becomes, who, if anyone, owns ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. Miller’s actions are best described as biopiracy and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994. 
+
+<param ve-image
+        url="https://www.biodiversitylibrary.org/pageimage/7810745"
+        label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
+        description="tba"
+        attribution="Missouri Botanical Garden, Peter H. Raven Library"
+        license= "In copyright. Digitized with the permission of the rights holder"> <!--still need to double check this D:--> 
+
+The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture. Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on US soil before he submitted his patent. In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States.
+<param ve-image
+       url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
+       label="Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman"
+       description="tba"
+       attribution="Courtesy of the Field Museum of Natural History "
+       license="CC BY-NC 4.0"
+       fit="contain">
 
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
