@@ -179,5 +179,16 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
        license="CC BY-NC 4.0"
        fit="contain">
 
+The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture. Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on US soil before he submitted his patent. In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States.
+<param ve-entity eid="Q177567">
+<param ve-map
+       title="Amazonian communities and ayahuasca names"
+       basemap="Esri_WorldPhysical"
+       center="Q177567"
+       zoom="4">
+<param ve-map-layer geojson active
+       url="ayahuasca-test.geojson">
+       
+
 ### References
 [^ref1]: My brain,_On Caffeine_, Guadalajara 2021
