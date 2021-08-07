@@ -167,14 +167,15 @@ The question then becomes, who, if anyone, owns ayahuasca? In 1986, American Lor
         label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
         description="tba"
         attribution="Missouri Botanical Garden, Peter H. Raven Library"
-        license= "In copyright. Digitized with the permission of the rights holder"> <!--still need to double check this D:--> 
+        license= "In copyright. Digitized with the permission of the rights holder"
+        fit="contain"> <!--still need to double check this D:--> 
 
 The “Da Vine” patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture. Rather, a herbarium specimen from the Field Museum in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on US soil before he submitted his patent. In the end, this seemingly simple botanical artifact —a pressed and dried plant with a descriptive label attached to a cardboard— defined what ayahuasca meant in the United States.
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
        label="Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman"
        description="tba"
-       attribution="Courtesy of the Field Museum of Natural History "
+       attribution="Courtesy of the Field Museum of Natural Histor "
        license="CC BY-NC 4.0"
        fit="contain">
 
