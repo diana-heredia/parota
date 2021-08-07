@@ -159,8 +159,9 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
        attribution="via Cabinet Magazine"
        license="???tbd"> <!--I might not get permission to use these two images but I wanted to see how they looked :')-->
        
-The question then becomes, who, if anyone, owns ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. Miller’s actions are best described as biopiracy and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994. 
-
+The question then becomes, who, if anyone, owns ayahuasca? In 1986, American Loren Miller tried to patent ayahuasca plant. Back in the late 1970s, this pharmacologist had developed a cultivar in Hawaii of _Banisteriopsis caapi_. He named his patented plants “Da Vine” and founded a company to study its potential benefits. Miller’s actions are best described as __biopiracy__ and were denounced by the Coordinating Body of Indigenous Organizations of the Amazon Basin (COICA) in 1994. 
+<param ve-entity eid="Q1129883"><!--COICA-->
+<param ve-entity eid="Q2904214"><!--biopiracy-->
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
         label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
